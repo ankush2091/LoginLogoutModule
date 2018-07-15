@@ -16,3 +16,11 @@ html,body{
     box-shadow: 0px 2px 6px 0px #ccc;
     padding: 50px;
 }
+.status-indicator{
+    font-weight: 500;
+    color: seagreen;
+    margin-top: 10px; 
+}
+.status-indicator.regis{
+    color: #204d74;
+}
